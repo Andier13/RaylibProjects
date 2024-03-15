@@ -1,0 +1,35 @@
+6
+
+2 3
+sq ut ci
+em tr em
+5
+0 0
+1 0
+1 1
+1 2
+0 2
+
+2 3
+sq tr ci
+em ut em
+
+2 5
+em tr em ut ci
+sq ut em tr em
+
+3 3
+ci tr tr
+em ut tr
+ut em sq
+
+3 3
+sq em tr
+em ut em
+ci em tr
+
+4 4
+ci em em tr
+ut ut tr em
+em tr ut em
+sq em em tr

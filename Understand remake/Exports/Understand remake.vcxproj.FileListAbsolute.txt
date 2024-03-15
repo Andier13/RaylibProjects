@@ -1,0 +1,3 @@
+D:\Raylib\visual studio projects\Understand remake\x64\Debug\Understand remake.vcxproj.CopyComplete
+D:\Raylib\visual studio projects\Understand remake\x64\Debug\Understand remake.exe
+D:\Raylib\visual studio projects\Understand remake\x64\Debug\raylib.dll

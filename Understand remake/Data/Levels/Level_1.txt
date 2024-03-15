@@ -1,0 +1,26 @@
+5
+
+1 3
+sq em ci
+3
+0 0
+0 1
+0 2
+
+1 3
+ci em sq
+
+2 2
+sq em
+em ci
+
+3 3
+ci em tr
+em em em
+ut em sq
+
+4 4
+ci em em tr
+em em ut em
+em tr em em
+ut em em sq
